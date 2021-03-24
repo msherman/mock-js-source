@@ -1,0 +1,15 @@
+{
+  "name": "e2e",
+  "version": "1.0.0",
+  "description": "quick test of mocking js files",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "testcafe": "^1.13.0"
+  },
+  "scripts": {
+    "test": "testcafe chrome simple.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
